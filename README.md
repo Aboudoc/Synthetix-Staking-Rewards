@@ -139,7 +139,7 @@ reward rate is set by the contract owner.
 Let's consider the following example:
 
 <div>
- <img src="images/math01.png" alt="Maths">
+ <img src="images/math01.png" alt="Maths" width="100" height="80">
  </div>
 
 After a user stakes or withdraw, we update the calculation:
