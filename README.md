@@ -139,25 +139,25 @@ reward rate is set by the contract owner.
 Let's consider the following example:
 
 <div>
- <img src="images/math01.png" alt="Maths" width="100" height="80">
+ <img src="images/maths01.png" alt="Maths">
  </div>
 
 After a user stakes or withdraw, we update the calculation:
 
 <div>
- <img src="images/math02.png" alt="Maths">
+ <img src="images/maths02.png" alt="Maths">
  </div>
 
 Let's computer reward earned per each user:
 
 <div>
- <img src="images/math03.png" alt="Maths">
+ <img src="images/maths03.png" alt="Maths">
  </div>
 
 Our goal is to write a contract with the following algorithm:
 
 <div>
- <img src="images/math04.png" alt="Maths">
+ <img src="images/maths04.png" alt="Maths">
  </div>
 
 ### Further reading
