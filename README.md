@@ -145,7 +145,7 @@ Let's consider the following example:
 After a user stakes or withdraw, we update the calculation:
 
 <div>
- <img src="images/maths02.png" alt="Maths">
+ <img src="images/math02.png" alt="Maths">
  </div>
 
 Let's computer reward earned per each user:
