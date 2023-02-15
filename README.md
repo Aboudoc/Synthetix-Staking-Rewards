@@ -157,7 +157,7 @@ Let's computer reward earned per each user:
 Our goal is to write a contract with the following algorithm:
 
 <div>
- <img src="images/maths04.png" alt="Maths">
+ <img src="images/maths05.png" alt="Maths">
  </div>
 
 ### Further reading
