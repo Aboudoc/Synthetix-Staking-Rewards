@@ -151,13 +151,13 @@ After a user stakes or withdraw, we update the calculation:
 Let's computer reward earned per each user:
 
 <div>
- <img src="images/maths03.png" alt="Maths">
+ <img src="images/math03.png" alt="Maths">
  </div>
 
 Our goal is to write a contract with the following algorithm:
 
 <div>
- <img src="images/maths05.png" alt="Maths">
+ <img src="images/math04.png" alt="Maths">
  </div>
 
 ### Further reading
