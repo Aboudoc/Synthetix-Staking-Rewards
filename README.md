@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Aboudoc/Staking-Rewards.git">
+  <a href="https://github.com/Aboudoc/Synthetix-Staking-Rewards.git">
     <img src="images/logo.png" alt="Logo" width="100" height="80">
   </a>
 
@@ -19,14 +19,14 @@
   <p align="center">
     A very simple staking contract 
     <br />
-    <a href="https://github.com/Aboudoc/Staking-Rewards"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Aboudoc/Synthetix-Staking-Rewards"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Aboudoc/Staking-Rewards">View Demo</a>
+    <a href="https://github.com/Aboudoc/Synthetix-Staking-Rewards">View Demo</a>
     ·
-    <a href="https://github.com/Aboudoc/Staking-Rewards/issues">Report Bug</a>
+    <a href="https://github.com/Aboudoc/Synthetix-Staking-Rewards/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Aboudoc/Staking-Rewards/issues">Request Feature</a>
+    <a href="https://github.com/Aboudoc/Synthetix-Staking-Rewards/issues">Request Feature</a>
   </p>
 </div>
 
@@ -107,7 +107,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Aboudoc/Staking-Rewards.git
+   git clone https://github.com/Aboudoc/Synthetix-Staking-Rewards.git
    ```
 2. Install NPM packages
    ```sh
@@ -174,7 +174,7 @@ Our goal is to write a contract with the following algorithm:
 - [ ] Deploy script
 - [ ] Unit test
 
-See the [open issues](https://github.com/Aboudoc/Staking-Rewards.git/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Aboudoc/Synthetix-Staking-Rewards.git/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,7 +209,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Reda Aboutika - [@twitter](https://twitter.com/AboutikaR) - reda.aboutika@gmail.com
 
-Project Link: [https://github.com/Aboudoc/Staking-Rewards.git](https://github.com/Aboudoc/Staking-Rewards.git)
+Project Link: [https://github.com/Aboudoc/Synthetix-Staking-Rewards.git](https://github.com/Aboudoc/Synthetix-Staking-Rewards.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -224,16 +224,16 @@ Project Link: [https://github.com/Aboudoc/Staking-Rewards.git](https://github.co
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Aboudoc/Staking-Rewards.svg?style=for-the-badge
-[contributors-url]: https://github.com/Aboudoc/Staking-Rewards/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Aboudoc/Staking-Rewards.svg?style=for-the-badge
-[forks-url]: https://github.com/Aboudoc/Staking-Rewards/network/members
-[stars-shield]: https://img.shields.io/github/stars/Aboudoc/Staking-Rewards.svg?style=for-the-badge
-[stars-url]: https://github.com/Aboudoc/Staking-Rewards/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Aboudoc/Staking-Rewards.svg?style=for-the-badge
-[issues-url]: https://github.com/Aboudoc/Staking-Rewards/issues
-[license-shield]: https://img.shields.io/github/license/Aboudoc/Staking-Rewards.svg?style=for-the-badge
-[license-url]: https://github.com/Aboudoc/Staking-Rewards/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Aboudoc/Synthetix-Staking-Rewards.svg?style=for-the-badge
+[contributors-url]: https://github.com/Aboudoc/Synthetix-Staking-Rewards/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Aboudoc/Synthetix-Staking-Rewards.svg?style=for-the-badge
+[forks-url]: https://github.com/Aboudoc/Synthetix-Staking-Rewards/network/members
+[stars-shield]: https://img.shields.io/github/stars/Aboudoc/Synthetix-Staking-Rewards.svg?style=for-the-badge
+[stars-url]: https://github.com/Aboudoc/Synthetix-Staking-Rewards/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Aboudoc/Synthetix-Staking-Rewards.svg?style=for-the-badge
+[issues-url]: https://github.com/Aboudoc/Synthetix-Staking-Rewards/issues
+[license-shield]: https://img.shields.io/github/license/Aboudoc/Synthetix-Staking-Rewards.svg?style=for-the-badge
+[license-url]: https://github.com/Aboudoc/Synthetix-Staking-Rewards/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/r%C3%A9da-aboutika-34305453/?originalSubdomain=fr
 [product-screenshot]: https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/9019e/hero.webp
