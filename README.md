@@ -14,7 +14,7 @@
     <img src="images/logo.png" alt="Logo" width="100" height="80">
   </a>
 
-<h3 align="center">Staking Rewards</h3>
+<h3 align="center">Synthetix Staking Rewards</h3>
 
   <p align="center">
     A very simple staking contract 
@@ -59,8 +59,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://ethereum.org/en/developers/docs/smart-contracts/security/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,7 +122,7 @@ To get a local copy up and running follow these simple example steps.
 
 If you need testnet funds, use the [Alchemy testnet faucet](https://goerlifaucet.com/).
 
-**This project shows a basic example of Constant Sum AMM**
+**This project shows a basic example of Synthetix Staking Rewards**
 
 ## Staking
 
