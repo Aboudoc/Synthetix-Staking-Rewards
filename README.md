@@ -149,7 +149,7 @@ Let's compute how many rewards are earned by Alice:
 Let's consider the following example:
 
 <div>
- <img src="images/maths01.png" alt="Maths">
+ <img src="images/math01ter.png" alt="Maths">
  </div>
 
 After a user stakes or withdraw, we update the calculation:
