@@ -158,7 +158,7 @@ We compute Rj using the second formula after a user stakes or withdraw:
  <img src="images/math02.png" alt="Maths">
  </div>
 
-Let's computer reward earned per each user:
+Let's computer reward earned by each user:
 
 <div>
  <img src="images/math03.png" alt="Maths">
