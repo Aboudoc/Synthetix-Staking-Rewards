@@ -152,7 +152,7 @@ Let's consider the following example:
  <img src="images/math01ter.png" alt="Maths">
  </div>
 
-After a user stakes or withdraw, we update the calculation:
+We compute Rj using the second formula after a user stakes or withdraw:
 
 <div>
  <img src="images/math02.png" alt="Maths">
@@ -184,6 +184,7 @@ Our goal is to implement the following algorithm:
 
 ## Roadmap
 
+- [ ] Math proof: equation 1 to 2
 - [ ] Further reading
 - [ ] Deploy script
 - [ ] Unit test
