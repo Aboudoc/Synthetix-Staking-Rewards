@@ -124,7 +124,7 @@ If you need testnet funds, use the [Alchemy testnet faucet](https://goerlifaucet
 
 **This project shows a basic example of Synthetix Staking Rewards**
 
-## Staking
+### Staking
 
 Users earn reward by staking their token.
 
@@ -140,7 +140,15 @@ You'll find below the formula to compute rewards earned by a user from k to n se
  <img src="images/math01.png" alt="Maths">
  </div>
 
-## Example
+## Example using equation 1
+
+Let's compute how many rewards are earned by Alice:
+
+<div>
+ <img src="images/math01bis.png" alt="Maths">
+ </div>
+
+## Example using equation 2
 
 Let's consider the following example:
 
