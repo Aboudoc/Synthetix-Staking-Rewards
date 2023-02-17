@@ -134,6 +134,12 @@ reward rate is set by the contract owner.
 
 ## Maths
 
+You'll find below the formula to compute rewards earned by a user from k to n seconds:
+
+<div>
+ <img src="images/math01.png" alt="Maths">
+ </div>
+
 Let's consider the following example:
 
 <div>
@@ -152,7 +158,7 @@ Let's computer reward earned per each user:
  <img src="images/math03.png" alt="Maths">
  </div>
 
-Our goal is to write a contract with the following algorithm:
+Our goal is to implement the following algorithm:
 
 <div>
  <img src="images/math04.png" alt="Maths">
