@@ -140,6 +140,8 @@ You'll find below the formula to compute rewards earned by a user from k to n se
  <img src="images/math01.png" alt="Maths">
  </div>
 
+## Example
+
 Let's consider the following example:
 
 <div>
@@ -157,6 +159,8 @@ Let's computer reward earned per each user:
 <div>
  <img src="images/math03.png" alt="Maths">
  </div>
+
+## Algorithm
 
 Our goal is to implement the following algorithm:
 
